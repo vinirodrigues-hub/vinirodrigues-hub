@@ -2,7 +2,7 @@
 
 ###
 
-<p data-importer="text" align="left">Me chamo Vinícius Silva Rodrigues, sou estudante e moro em Brasília - Brasil</p>
+<p data-importer="text" align="left">Me chamo Vinícius Silva Rodrigues, sou estudante e moro em Brasília, DF, Brasil</p>
 
 ###
 
