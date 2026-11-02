@@ -20,7 +20,7 @@
 
 ###
 
-<h1 data-importer="text" align="left">Linguagens que programo</h1>
+<h1 data-importer="text" align="left">Eu programo em</h1>
 
 ###
 
@@ -50,7 +50,7 @@
   <a href="https://www.linkedin.com/in/vin%C3%ADcius-silva-rodrigues-743b33417/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="vinisivarodrigues2008@gmail.com" target="_blank">
+  <a href="mailto:vinisivarodrigues2008@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
