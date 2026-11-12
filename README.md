@@ -18,7 +18,7 @@
 
 ###
 
-<p data-importer="text" align="left">- Evoluir constantemente como desenvolvedor.<br><br>- Desenvolver projetos que resolvam problemas reais.<br><br>- Aprofundar meus conhecimentos em programação.<br><br>- Aprender novas tecnologias e boas práticas de desenvolvimento.</p>
+- <p data-importer="text" align="left"> Evoluir constantemente como desenvolvedor.<br><br>- Desenvolver projetos que resolvam problemas reais.<br><br>- Aprofundar meus conhecimentos em programação.<br><br>- Aprender novas tecnologias e boas práticas de desenvolvimento.</p>
 
 ###
 
