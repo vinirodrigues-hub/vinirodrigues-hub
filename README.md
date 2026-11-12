@@ -1,16 +1,24 @@
-<h1 data-importer="text" align="left">Olá! Seja bem vindo!</h1>
+<h1 data-importer="text" align="left">👋 Olá! Seja bem vindo!</h1>
 
 ###
 
-<p data-importer="text" align="left">Me chamo Vinícius Silva Rodrigues, sou estudante e moro em Brasília, DF, Brasil</p>
+<p data-importer="text" align="left">Me chamo Vinícius Silva Rodrigues e moro em Brasília, DF, Brasil</p>
 
 ###
 
-<h1 data-importer="text" align="left">Sobre mim</h1>
+<h1 data-importer="text" align="left">👨‍💻 Sobre mim</h1>
 
 ###
 
-<p data-importer="text" align="left">🎓 Estudante do 2º semestre de Engenharia de Software<br><br>💻 Interessado em desenvolvimento de software e tecnologia.<br><br>🚀 Buscando aprimorar minha lógica de programação, desenvolver projetos práticos e construir uma base sólida em engenharia de software.<br><br>📚 Utilizando este espaço para compartilhar projetos acadêmicos, estudos e minha evolução como desenvolvedor.</p>
+<p data-importer="text" align="left">Sou estudante de Engenharia de Software, apaixonado por tecnologia e desenvolvimento de soluções através da programação.<br><br>Atualmente, estou aprimorando meus conhecimentos em desenvolvimento de software, com foco em Python, C e Front-end.<br><br>Gosto de aprender na prática, desenvolver projetos e explorar novas tecnologias, sempre buscando evoluir minhas habilidades e construir uma base sólida como desenvolvedor.</p>
+
+###
+
+<h1 data-importer="text" align="left">🚀 Objetivos</h1>
+
+###
+
+<p data-importer="text" align="left">- Evoluir constantemente como desenvolvedor.<br><br>- Desenvolver projetos que resolvam problemas reais.<br><br>- Aprofundar meus conhecimentos em programação.<br><br>- Aprender novas tecnologias e boas práticas de desenvolvimento.</p>
 
 ###
 
@@ -20,45 +28,35 @@
 
 ###
 
-<h1 data-importer="text" align="left">Eu programo em</h1>
+<h1 data-importer="text" align="left">👾 Tecnologias</h1>
 
 ###
 
 <div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
 
 ###
 
-<h1 data-importer="text" align="left">Conecte-se comigo</h1>
+<h1 data-importer="text" align="left">📱Se conecte comigo!</h1>
 
 ###
 
 <div data-importer="socials" align="left">
-  <a href="https://www.linkedin.com/in/vin%C3%ADcius-silva-rodrigues-743b33417/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a> 
-  
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
 </div>
- 
 
 ###
-</div>
-
-##
-
-
-
-
