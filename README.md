@@ -28,7 +28,7 @@
 
 ###
 
-<h1 data-importer="text" align="left">👾 Tecnologias</h1>
+<h1 data-importer="text" align="left">👾 Ferramentas e tecnologias</h1>
 
 ###
 
